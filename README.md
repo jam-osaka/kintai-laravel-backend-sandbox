@@ -1,6 +1,6 @@
 # Hello World を表示する
 
-実際にやったことは [memo.md](/memo.md) にメモしてあります。
+実際にやったことは [docs/memo.md](/docs/memo.md) にメモしてあります。
 
 ## 起動と確認
 
@@ -9,7 +9,6 @@
 ```sh
 $ ./vendor/bin/sail up -d
 ```
-
 
 ### 確認
 
